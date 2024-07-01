@@ -3,6 +3,7 @@ Duplicate genes are often retained when both copies are necessary to maintain no
 
 
 For 15 species with gene expression in two or more tissues, we used the coexpression and fold-change in expression of paralog pairs to define four different duplicate gene retention categories (SD denotes standard deviation):\
+\
 I. Dosage-balanced: coexpression > 0.9, mean fold-change < 1, SD of fold-change < 1\
 II. Transcriptional drift: coexpression > 0.9, mean fold-change >= 1, SD of fold-change < 1\
 III. Specialized: coexpression > 0.9, mean fold-change >= 1, SD of fold-change >= 1\
