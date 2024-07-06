@@ -14,8 +14,8 @@ IV. Diverged: coexpression < 0.5, mean fold-change >= 1, SD of fold-change >= 1
 We found that both methods (conservation of total dosage across species, and conservation of expression profiles within species) predict consistent classification, with "dosage-constrained" orthogroups enriched for paralog pairs under dosage-balance and drift, and "unconstrained" orthogroups associated with tissue-specific and diverged paralogs.
 
 
+![schematic-01](https://github.com/gillislab/pansol_expression_analysis/assets/46113011/5517f029-c7f5-4675-b304-132a8e63cf85)
 
-![schematic-01](https://github.com/gillislab/pansol_expression_analysis/assets/46113011/7a4c4394-1078-42a4-9f85-47f2f6772296)
 
 # Data
 Data used for expression analysis can be accessed from the "data" folder. The "results" folder contains paralog pairs, summary of expression and genetic properties and their functional classifications by both methods (one file per species). R scripts containing code used for different parts of expression analysis is available in "scripts" folder.
