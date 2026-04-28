@@ -5,7 +5,7 @@ Updated expression matrices and downstream analyses to use exon length-normalize
 
 
 -------
-
+<br>
 
 Duplicate genes are often retained when both copies are necessary to maintain normal gene function. Consequently, functional fates of duplicate genes are often characterized by the extent of selective pressures on total dosage. To assess the relative importance of dosage balance (copies evolving under strong purifying selection to maintain total dosage) and neutral drift (no selection on total dosage) in maintaining duplicate genes, we compared the total expression of paralog pairs within each tissue for each pair of 22 species. Since the total dosage of paralog pairs from same orthogroup were highly correlated across species, we defined paralog pairs that deviated from this trend as "dosage-unconstrained", and all other paralog pairs as "dosage-constrained".
 
