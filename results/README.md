@@ -1,1 +1,0 @@
-This folder contains one file per species specifying paralog pairs, their orthogroup and average expression levels, a summary of their genetic properties and classifications based on : (i) constraint on total dosage, (ii) paralog coexpression and fold-change in expression.
