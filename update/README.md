@@ -5,5 +5,7 @@ Paralog coexpression specificity scores across 15 species are essentially unchan
 We have provided updated versions of Figure 2 and Extended Data Figure 2 reflecting these analyses. The primary difference is in the representative examples shown in Figure 2f and Extended Data Figure 2d. All other results and conclusions remain consistent with the [published version](https://www.nature.com/articles/s41586-025-08619-6).
 
 <br>
+---
 
-Updated Figure 2
+**Updated Figure 2**
+
