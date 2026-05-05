@@ -13,3 +13,8 @@ We have provided updated versions of Figure 2 and Extended Data Figure 2 reflect
 
 ![figure2_update](fig2_updated.png)
 
+
+**Updated Extended Data Figure 2**
+
+
+![ext_data_figure2_update](ExtendedDataFigure2_updated.png)
