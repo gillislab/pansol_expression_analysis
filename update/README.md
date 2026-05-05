@@ -1,0 +1,5 @@
+We have updated our TPM normalization to use total exon length rather than total gene length. This change affects absolute expression levels but has minimal impact on our results overall.
+
+Paralog coexpression specificity scores across 15 species are essentially unchanged (correlation  = 1), and fold-change variability is also highly concordant between versions ( correlation = 0.96). The measure most sensitive to this correction is the mean fold-change between paralog pairs, which is used to distinguish dosage-balanced from paralog dominance groups. Despite this, 89% of paralog pairs retain the same classification, with only 7.5% switching between groups I and II.
+
+We have provided updated versions of Figure 2 and Extended Data Figure 2 reflecting these analyses <link>. The primary difference is in the representative examples shown in Figure 2f and Extended Data Figure 2d. All other results and conclusions remain consistent with the published version.
