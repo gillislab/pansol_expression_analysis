@@ -9,8 +9,8 @@ We have provided updated versions of Figure 2 and Extended Data Figure 2 reflect
 <br>
 
 **Updated Figure 2**
-<br>
 
+<br>
 ![figure2_update](fig2_updated.png)
 
 <br><br>
