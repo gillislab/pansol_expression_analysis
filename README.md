@@ -1,7 +1,7 @@
 # Analysis of paralog expression profiles across 22 solanum species 
 **Update (April 2026)**
 
-Updated expression matrices and downstream analyses to use exon length-normalized TPMs instead of gene-length normalization. Results are qualitatively consistent with the previous version.
+Updated expression matrices and downstream analyses to use exon length-normalized TPMs instead of gene-length normalization. Results are qualitatively consistent with the previous version. For more details, see [here](https://github.com/gillislab/pansol_expression_analysis/update/README.md)
 
 
 -------
